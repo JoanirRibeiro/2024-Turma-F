@@ -1,5 +1,6 @@
 .cabeçalho {
     background-color: #5F0F40;
+    display:flex;
     }
 
 .cabeçalho-título {
