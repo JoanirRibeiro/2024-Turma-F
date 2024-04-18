@@ -42,6 +42,14 @@
     justify-content: center;
 }
 
+.Apresentação-título {
+    justify-content: center;
+}
+
+.Apresentação-parágrafo {
+    justify-content: center;
+}
+
 .Apresentação-imagem {
     width: 25%;
 }
