@@ -5,11 +5,11 @@
 
 .cabeçalho {
     background-color: #5F0F40;
-    display:flex;
+    display: flex;
     padding: 24px 0;
-    justify-content:space-around;
+    justify-content: space-around;
     align-items: center;
-    }
+}
 
 .cabeçalho-título {
     color: #FA725A;
@@ -21,21 +21,23 @@
     font-size: 24px;
 }
 
-.cabeçalho-lista-item1{
+.cabeçalho-lista-item1 {
     display: inline-block;
     margin: 0 16px;
 }
 
 .cabeçalho-lista-item2 {
     display: inline-block;
-    margin:0 16px;
+    margin: 0 16px;
 }
 
 .cabeçalho-imagem {
     width: 10%;
 }
 
-
+.Aprentação {
+    background-color: #07C4D9;
+}
 
 .Apresentação-imagem {
     width: 25%;
