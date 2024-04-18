@@ -40,15 +40,11 @@
     color: white;
     display: flex;
     justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+
 }
 
-.Apresentação-título {
-    justify-content: center;
-}
-
-.Apresentação-parágrafo {
-    justify-content: center;
-}
 
 .Apresentação-imagem {
     width: 25%;
