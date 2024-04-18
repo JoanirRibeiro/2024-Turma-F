@@ -46,10 +46,12 @@
 
 .Apresentação-título {
     font-size: 36px;
+    padding: 24px;
 }
 
 .Apresentação-parágrafo {
     font-size: 32px;
+    padding: 24px;
 }
 
 .Apresentação-imagem {
