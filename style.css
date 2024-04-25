@@ -83,5 +83,6 @@ body{
 }
 
 .equipe-conteúdo{
+    justify-content: center;
     align-items: center;
 }
