@@ -58,6 +58,12 @@ body{
     padding: 24px;
 }
 
+.Apresentação-conteúdo{
+    width: 30%;
+    padding: 24px,0;
+    justify-content: center;
+}
+
 .Apresentação-imagem {
     width: 20%;
 }
