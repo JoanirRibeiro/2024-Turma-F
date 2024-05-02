@@ -103,6 +103,7 @@ body{
     display: flex;
     padding: 24px;
     align-items: center;
+    text-align: center;
 }
 
 .rodapé-imagem {
