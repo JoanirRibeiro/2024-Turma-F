@@ -100,6 +100,11 @@ body{
 .rodapé{
     background-color: #facf5a;
     color: #5F0F40;
-    display: inline-block;
+    display: flex;
     padding: 24px;
+}
+
+.rodapé-imagem {
+    width: 50px;
+    padding: 50px;
 }
