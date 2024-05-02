@@ -102,6 +102,7 @@ body{
     color: #5F0F40;
     display: flex;
     padding: 24px;
+    align-items: center;
 }
 
 .rodapé-imagem {
