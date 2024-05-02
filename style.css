@@ -100,4 +100,5 @@ body{
 .rodapé{
     background-color: #facf5a;
     color: #5F0F40;
+    display: flex;
 }
